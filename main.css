@@ -57,3 +57,17 @@ hr {
   background-color: lightsteelblue;
   border: 0;
 }
+
+/* main tag*/
+
+.main-content {
+  width: 100%;
+}
+
+.featured-project-screenshots {
+  width: 100%;
+  background-image: url("img/pss.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 450px;
+}
