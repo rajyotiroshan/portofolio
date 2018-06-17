@@ -49,3 +49,11 @@ footer {
 .skills {
 
 }
+
+/* horizontal line*/
+
+hr {
+  height: 5px;
+  background-color: lightsteelblue;
+  border: 0;
+}
