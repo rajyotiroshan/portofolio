@@ -106,3 +106,22 @@ h3 {
   background-color: #c3cfef;
   margin-left:5px;
 }
+
+/*footer for page*/
+
+.page-footer {
+  width: 100%;
+}
+
+.social-links-container {
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  margin-top: 50px;
+  margin-bottom: 5px;
+  padding:10px;
+  border: 1px solid none;
+  border-radius:10px;
+  background-color:#e1e6e6;
+}
