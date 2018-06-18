@@ -91,6 +91,7 @@ hr {
 h3 {
   font-size: 24px;
   font-family:sans-serif;
+  margin-bottom: 13px;
 }
 .proj-list-container {
   display:flex;
