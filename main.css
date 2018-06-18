@@ -67,10 +67,41 @@ hr {
   width: 100%;
 }
 
+/* background image for feature project, div tag*/
+
+
 .featured-project-screenshots {
   width: 100%;
   background-image: url("img/pss.png");
   background-size: contain;
   background-repeat: no-repeat;
   height: 384px;
+}
+
+/* featured skills section*/
+
+.featured-skills {
+  width: 100%;
+}
+
+.projects {
+  width:100%;
+}
+
+h3 {
+  font-size: 24px;
+  font-family:sans-serif;
+}
+.proj-list-container {
+  display:flex;
+  flex-flow:row wrap;
+  width:100%;
+  justify-content:space-between;
+}
+
+.proj-item {
+  min-width:100px;
+  height:75px;
+  background-color: #c3cfef;
+  margin-left:5px;
 }
