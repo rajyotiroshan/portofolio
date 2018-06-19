@@ -90,14 +90,15 @@ hr {
 
 h3 {
   font-size: 24px;
-  font-family:sans-serif;
+  font-family: sans-serif;
   margin-bottom: 13px;
 }
 .proj-list-container {
-  display:flex;
-  flex-flow:row wrap;
-  width:100%;
-  justify-content:space-between;
+  display: flex;
+  flex-flow: row nowrap;
+  width: 100%;
+  justify-content: unset;
+  overflow-x: scroll;
 }
 
 .proj-item {
