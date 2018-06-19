@@ -110,7 +110,10 @@ h3 {
 }
 
 .proj-img {
-
+    background-image: url("img\profile.png");
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
 }
 
 .proj-name {
