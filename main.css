@@ -102,10 +102,11 @@ h3 {
 }
 
 .proj-item {
-  min-width:100px;
-  height:75px;
+  width: 300px;
+  height: 250px;
   background-color: #c3cfef;
-  margin-left:5px;
+  margin-left: 5px;
+  margin-bottom: 5px;
 }
 
 /*footer for page*/
