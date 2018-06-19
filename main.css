@@ -124,12 +124,10 @@ h3 {
 }
 
 .gitHub-link {
-
+  display: block;
+  text-align: center;
 }
 
-.details {
-
-}
 
 /*footer for page*/
 
