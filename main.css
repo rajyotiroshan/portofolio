@@ -117,7 +117,10 @@ h3 {
 }
 
 .proj-name {
-
+  margin-top: 5px;
+  text-align: center;
+  font-size: 19px;
+  margin-bottom: 5px;
 }
 
 .gitHub-link {
