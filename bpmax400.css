@@ -26,3 +26,33 @@
   font-size: 1.1em;
   margin-bottom: 0;
 }
+
+/* project heading
+* project-list container and
+* project-item and
+* project-item children
+*/
+
+h3 {
+  font-weight: normal;
+  letter-spacing: 3px;
+}
+
+.proj-item {
+  width: 200px;
+  height: 160px;
+}
+
+.proj-img {
+  width: 200px;
+  height: 100px;
+}
+
+.proj-name {
+  letter-spacing: 3px;
+}
+
+.gitHub-link {
+  font-size: 19px;
+  letter-spacing: 2px;
+}
