@@ -75,7 +75,7 @@ hr {
   background-image: url("img/pss.png");
   background-size: contain;
   background-repeat: no-repeat;
-  height: 384px;
+  height: calc(100vw / 2.2);
 }
 
 /* featured skills section */
