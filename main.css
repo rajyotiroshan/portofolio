@@ -78,7 +78,8 @@ hr {
   height: 384px;
 }
 
-/* featured skills section*/
+/* featured skills section */
+/* below style is common to all projects class children*/
 
 .featured-skills {
   width: 100%;
@@ -121,6 +122,10 @@ h3 {
   text-align: center;
   font-size: 19px;
   margin-bottom: 5px;
+}
+
+.proj-name:hover {
+  cursor: pointer;
 }
 
 .gitHub-link {
