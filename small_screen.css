@@ -7,6 +7,7 @@
 
 .profile-pic {
   width: 124px;
+  transition: width .3s;
 }
 
 .intro-summary {
@@ -27,6 +28,10 @@
   margin-bottom: 0;
 }
 
+.name,
+.skills {
+  transition: font-size .3s;
+}
 /* project heading
 * project-list container and
 * project-item and
