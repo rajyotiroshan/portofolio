@@ -105,6 +105,7 @@ h3 {
 .proj-item {
   width: 300px;
   height: 225px;
+  transition: width .6s;
   background-color: #c3cfef;
   margin-left: 5px;
   margin-bottom: 5px;
@@ -113,8 +114,16 @@ h3 {
 .proj-img {
     background-image: url("img/fep-large.png");
     width: 300px;
+    transition: width .6s;
     height: 170px;
     border: 1px solid red;
+}
+
+/* transition effect for proj-tem and proj-img*/
+
+.proj-item,
+.proj-img {
+  transition: width .6s;
 }
 
 .proj-name {
