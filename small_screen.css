@@ -38,7 +38,7 @@
 * project-item children
 */
 
-h3 {
+.proj-header {
   font-weight: normal;
   letter-spacing: 3px;
   transition: letter-spacing .3s;
