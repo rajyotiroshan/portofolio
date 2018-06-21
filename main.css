@@ -91,7 +91,10 @@ hr {
 
 h3 {
   font-size: 24px;
+  font-weight: 500;
   font-family: sans-serif;
+  letter-spacing: 1px;
+  transition: letter-spacing .3s;
   margin-bottom: 13px;
 }
 .proj-list-container {
