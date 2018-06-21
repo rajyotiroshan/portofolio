@@ -72,7 +72,7 @@ hr {
 
 .featured-project-screenshots {
   width: 100%;
-  background-image: url("img/pss.png");
+  background-image: url("../img/pss.png");
   background-size: contain;
   background-repeat: no-repeat;
   height: calc(100vw / 2.2);
@@ -115,7 +115,7 @@ hr {
 }
 
 .proj-img {
-    background-image: url("img/fep-large.png");
+    background-image: url("../img/fep-large.png");
     width: 300px;
     transition: width .6s;
     height: 170px;
