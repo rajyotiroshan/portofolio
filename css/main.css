@@ -85,6 +85,14 @@ hr {
   width: 100%;
 }
 
+/*featured-skills heading*/
+
+.fs-hdng {
+  text-align: left;
+  font-weight: 500;
+  font-size: 2.6em;
+}
+
 .projects {
   width:100%;
 }
